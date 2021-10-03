@@ -6,6 +6,7 @@
 // 2.Here the while loop will start when the initial character has been deleted and the initial 
 // value has been incremented everytime with -> begin = begin + 1.
 // This will increment it to 1 past the inital repeating character.
+// 3.Examples have been provided for clarity.
 
 // Time complexity: O(1)
 // Space complexity: O(n)
